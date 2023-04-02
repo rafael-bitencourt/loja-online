@@ -5,4 +5,5 @@ dá por parâmetros arbitrários e de fácil acesso. O repositório possui tamb�
 dados, a fim de se obter as respectivas informações comentadas no arquivo "consultas.sql".
 
 Abaixo está o Diagrama de Relacionamento de Entidade criado e utilizado na modelagem desse banco de dados:
+
 ![ERD](https://user-images.githubusercontent.com/124313519/229375849-fd0e29ab-2425-4857-b7f2-12fd8f70e5a3.png)
